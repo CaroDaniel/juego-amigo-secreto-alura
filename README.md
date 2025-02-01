@@ -18,3 +18,7 @@ Puedes acceder al proyecto desde [aquí](https://github.com/usuario/repositorio)
 3. CSS
 4. JavaScript
 
+## 👥 Personas Contribuyentes
+
+- [@usuario1](https://github.com/alura)
+
