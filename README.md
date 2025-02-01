@@ -20,5 +20,5 @@ Puedes acceder al proyecto desde [aquí](https://github.com/usuario/repositorio)
 
 ## 👥 Personas Contribuyentes
 
-- [@usuario1](https://github.com/alura)
+- [Alura](https://github.com/alura)
 
