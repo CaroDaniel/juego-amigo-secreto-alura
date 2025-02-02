@@ -7,10 +7,6 @@
 
 ✅ _Completado_
 
-## 🔗 Acceso al Proyecto
-
-Puedes acceder al proyecto desde [aquí](https://github.com/usuario/repositorio).
-
 ## 🛠 Tecnologías Utilizadas
 
 1. Visual Studio Code
